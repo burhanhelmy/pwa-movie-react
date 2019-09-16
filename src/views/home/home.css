@@ -1,0 +1,47 @@
+.main-container {
+  padding: 10px 10%;
+}
+
+.app-title {
+  /* display: inline !important; */
+  font-size: 40pt;
+  margin-bottom: 20px;
+}
+
+
+.action-btn {
+  text-align: end;
+}
+
+.movie-container {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.movie-card {
+  display: inline-block !important;
+  text-decoration: none;
+  width: 200px !important;
+  margin: 10px 10px;
+}
+
+.movies {
+  /* margin: 50px 0px; */
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.movie-category-title {
+  padding-top: 10px!important;
+  margin: 0px!important;
+}
+
+.card-title{
+  overflow: hidden;
+}
+
+.cover-img{
+  background: gray;
+  height: 300px;
+  width: 200px;
+}
